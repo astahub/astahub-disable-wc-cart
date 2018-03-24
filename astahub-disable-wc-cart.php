@@ -1,10 +1,10 @@
 <?php
 /*
 Plugin Name: Astahub - Disable WooCommerce Cart
-Plugin URI: 
+Plugin URI: https://github.com/astahub/astahub-disable-wc-cart
 Description: Disable WooCommerce's Add to cart button, and also remove the StoreFront header cart menu.
 Author: harisrozak
-Author URI: 
+Author URI: https://github.com/harisrozak
 Version: 0.1
 Text Domain: astahub-disable-wc-cart
 License: GPL version 2 or later - http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
